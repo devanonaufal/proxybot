@@ -1,0 +1,19 @@
+{
+  "name": "proxysscrapperjs",
+  "version": "1.0.0",
+  "description": "Little http proxy scrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amnesia",
+  "license": "ISC",
+  "dependencies": {
+    "agent": "^0.2.1",
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "request": "^2.88.2",
+    "requests": "^0.3.0",
+    "socks5-http-client": "^1.0.4"
+  }
+}
