@@ -1,6 +1,6 @@
 const request = require('request');
 const Agent = require('socks5-http-client/lib/Agent');
-var token = "OTAxOTI5NzU0NzU0NzA3NTM3.YXXBig.9SrWq3fFYQ9hO-GgDDfC7Apfwb8"
+var token = "ISI TOKEN"
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
